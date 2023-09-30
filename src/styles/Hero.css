@@ -1,0 +1,18 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+}
+
+.hero--img {
+    max-width: 400px;
+    align-self: center;
+}
+
+.hero--title {
+    font-size: 36px;
+    margin-bottom: 16px;
+}
+
+.hero--text {
+    width: 320px;
+}
