@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="hero">
       <img
-        src="../images/photo-grid.png"
+        src="./images/photo-grid.png"
         alt="pictures"
         className="hero--img"
       />
